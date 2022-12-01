@@ -7,7 +7,7 @@ header{
     background-image: url(https://images.pexels.com/photos/14281758/pexels-photo-14281758.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load);
 }
 .row-one{
-    columns: 2;
+    columns: 3;
 }
 p{
     background-color: burlywood;
@@ -15,4 +15,8 @@ p{
 }
 .row-two{
     columns: 2;
+}
+h2{
+    background-color: bisque;
+ 
 }
