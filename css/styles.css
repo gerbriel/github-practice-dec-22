@@ -1,3 +1,18 @@
-h1{
-    color: cornflowerblue;
+nav{
+    background-color: aquamarine;
+    height: 100px;
+}
+header{
+    height: 500px;
+    background-image: url(https://images.pexels.com/photos/14281758/pexels-photo-14281758.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load);
+}
+.row-one{
+    columns: 2;
+}
+p{
+    background-color: burlywood;
+    height: 200px;
+}
+.row-two{
+    columns: 2;
 }
